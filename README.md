@@ -1,1 +1,4 @@
-Interactive Plotly visualizations for wavelet analysis.
+## Figures
+All figures are available here:
+https://github.com/handegulbay/plotly-visuals/tree/main/figures
+
